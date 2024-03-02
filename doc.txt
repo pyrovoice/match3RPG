@@ -1,0 +1,14 @@
+Rules: Match 3 with 5 colors of mana + Pure mana. Can move without matching, 3 moves per turn.
+Matching orbs reward the player 1 mana. If colored, a random card of that color in the player's hand also gets 1 mana. 
+If pure mana, the player gets a mana + gets a player mana used to activate hero's ability (And cast commander?)
+
+Building a deck allows the player to select X cards and a commander that can be cast as if it was in hand. Can be recast when dead for cost + 2mana/2 player mana?
+Creatures go on the field, max 5 at once, can stack to add stats and multiply effects?
+Creatures attack on turn end if no summoning sickness. Can be set to block instead of attacking. Can be moved but set in defense if they do so
+Add a "Undo" button for non-unknown information actions (can't undo a match, can undo a sphere move)
+
+
+Ideas:
+effect to add more swap, or add a special swap (exchange two orbs, move an entire line instead of a single exchange..)
+Traps and constants that stay in play. Traps trigger on match, constant have a life that is reduced when matching or by card effect
+No draw per turn but a draw action costing more every time?

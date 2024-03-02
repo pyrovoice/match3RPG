@@ -1,0 +1,6 @@
+Name:Lightning Bolt
+Color:R
+Cost:5
+Types:Spell
+A:SP$ DealDamage | ValidTgts$ Any | NumDmg$ 3
+Description:CARDNAME deals 3 damage to any target.
